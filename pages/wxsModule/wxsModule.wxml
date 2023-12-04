@@ -1,0 +1,2 @@
+<wxs src="../../wxs/index.wxs" module="foo"></wxs>
+<wxs src="../../wxs/index.wxs" module="bar"></wxs>

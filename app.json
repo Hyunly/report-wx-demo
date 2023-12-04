@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/logDemo/logDemo",
+    "pages/templateDemo/templateDemo",
+    "pages/templateName/templateName",
+    "pages/require/require",
+    "pages/templateIsAttrIsNull/templateIsAttrIsNull",
+    "pages/templateCondition/templateCondition",
+    "pages/templateMustHasIsOrNameAttr/templateMustHasIsOrNameAttr",
+    "pages/importModule/importModules",
+    "pages/elif/elif",
+    "pages/wxsComment/wxsComment",
+    "pages/noJsFile/noJsFile",
+    "pages/componentNoJsFile/componentNoJsFile",
+    "pages/importSrc/importSRC",
+    "pages/importNoSrc/importNoSrc",
+    "pages/importSrcMustIsString/importSrcMustIsString",
+    "pages/slotMustString/slotMustString",
+    "pages/wxsAttrisNotNull/wxsAttrisNotNull",
+    "pages/wxsNoSrc/wxsNoSrc",
+    "pages/getRex/getRex",
+    "pages/wxsModule/wxsModule",
+    "pages/wxFor/wxFor",
+    "pages/wxForItem/wxForItem",
+    "pages/wxForIndex/wxForIndex",
+    "pages/styleDemo/styleDemo",
+    "pages/attrIsJs/attrIsJs",
+    "pages/isValidVarName/isValidVarName"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationStyle": "custom"
+  },
+  "style": "v2",
+  "rendererOptions": {
+    "skyline": {
+      "defaultDisplayBlock": true,
+      "disableABTest": true,
+      "sdkVersionBegin": "3.0.0",
+      "sdkVersionEnd": "15.255.255"
+    }
+  },
+  "componentFramework": "glass-easel",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

@@ -1,0 +1,4 @@
+var reg = 12
+var _getRegExp = getRegExp(reg,'i')
+
+module.exports.getRegExp = _getRegExp

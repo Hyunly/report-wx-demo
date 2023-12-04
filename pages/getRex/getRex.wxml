@@ -1,0 +1,9 @@
+<wxs module="foo">
+var reg = 12
+var getRex = getRegExp({}, i)
+
+module.exports.getRex = getRex
+</wxs>
+
+<view>
+</view>

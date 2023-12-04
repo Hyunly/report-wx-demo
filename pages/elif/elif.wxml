@@ -1,0 +1,4 @@
+<view wx:if="{{ true }}">123</view>
+<view wx:elif="false">456</view>
+<view wx:else="">789</view>
+<import src="./index.js"></import>
